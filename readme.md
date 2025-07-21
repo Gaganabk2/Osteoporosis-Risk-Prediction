@@ -1,7 +1,7 @@
 # Osteoporosis Risk Prediction
 
 <div align="center">
-  <img src="placeholder_image.jpg" alt="Osteoporosis Prediction" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="https://github.com/Gaganabk2/Osteoporosis-Risk-Prediction/blob/main/dataset-cover.png" alt="Osteoporosis Prediction" width="300" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </div>
 
 ---
